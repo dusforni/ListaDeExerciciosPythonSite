@@ -1,0 +1,22 @@
+ACME Inc.               Uso do espaço em disco pelos usuários
+------------------------------------------------------------------------
+Nr.  Usuário        Espaço utilizado     % do uso
+1    eduardo               0.2 MB         0.28%
+2    maria                 0.12 MB         0.17%
+3    marcia                5.1 MB         7.07%
+4    marta                 0.3 MB         0.42%
+5    milton                3.09 MB         4.28%
+6    daniel                0.02 MB         0.03%
+7    junior                0.01 MB         0.01%
+8    rogerio               0.12 MB         0.17%
+9    norah                 58.16 MB         80.61%
+10    genroh                1.18 MB         1.64%
+11    du                    0.75 MB         1.04%
+12    edu                   1.2 MB         1.66%
+13    dudu                  1.17 MB         1.62%
+14    paula                 0.51 MB         0.71%
+15    rostello              0.22 MB         0.3%
+
+
+Espaço total ocupado: 72.15 MB
+Espaço médio: 4.81
